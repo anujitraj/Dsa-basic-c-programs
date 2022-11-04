@@ -5,5 +5,6 @@ int main(){
     printf("hello barun ashish amlan swayantan");
     printf("Barun dekh edit kar diye na bsdk");
     printf("lauda mera");
+    printf("lauda tera");
     return 0;
 }
